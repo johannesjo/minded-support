@@ -24,6 +24,13 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
+## No Warranty
+
+The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+
+Johannes Millan, the developer of this Service, its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+
 ## Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us via email at contact@super-productivity.com
+
