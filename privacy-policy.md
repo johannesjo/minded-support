@@ -30,6 +30,10 @@ The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is p
 
 Johannes Millan, the developer of this Service, its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
 
+## Consent
+
+By using our Service, you hereby consent to our Privacy Policy and agree to its terms.
+
 ## Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us via email at contact@super-productivity.com
